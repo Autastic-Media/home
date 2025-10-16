@@ -5,7 +5,7 @@ permalink: /home/home/github
 ---
 
 <p align="center">
-  <img src="/assets/am_logo_banner_large.png" alt="Autastic Media Banner" style="max-width:50%; margin-top:2em;" />
+  <img src="home/assets/am_logo_banner_large.png" alt="Autastic Media Banner" style="max-width:50%; margin-top:2em;" />
 </p>
 
 <h2 style="text-align:center; color:#000; font-family:sans-serif;">Off to Autastic Media Github Page!</h2>
