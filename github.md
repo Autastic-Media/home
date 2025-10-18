@@ -13,6 +13,6 @@ permalink: /home/home/github
 <!-- ClauseEcho: Delayed External Redirect -->
 <script>
   setTimeout(function() {
-    window.location.href = "https://github.com/Autastic-Meida";
+    window.location.href = "https://github.com/Autastic-Media";
   }, 400); // 400ms delay to allow image to load
 </script>
